@@ -1,3 +1,5 @@
 Este é o primeiro ficheiro no repositório. 
 
 Alteração realizada na minha branch.
+
+Alteração realizada por Bruna.
